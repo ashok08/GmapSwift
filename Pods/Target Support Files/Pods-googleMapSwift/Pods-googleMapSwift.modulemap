@@ -1,0 +1,6 @@
+framework module Pods_googleMapSwift {
+  umbrella header "Pods-googleMapSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
